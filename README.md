@@ -2,6 +2,12 @@
 
 For the 2026 Winter Wonderland hackaton.
 
+[![GitHub stars](https://img.shields.io/github/stars/SandyJBlalock/special-telegram?style=for-the-badge)](https://github.com/SandyJBlalock/special-telegram/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SandyJBlalock/special-telegram?style=for-the-badge)](https://github.com/SandyJBlalock/special-telegram/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/SandyJBlalock/special-telegram?style=for-the-badge)](https://github.com/SandyJBlalock/special-telegram/issues)
+[![License](https://img.shields.io/github/license/SandyJBlalock/special-telegram?style=for-the-badge)](https://github.com/SandyJBlalock/special-telegram/blob/main/LICENSE)
+
+
 **Make the group chat feel a little more special.**
 
 Special Telegram is a hackathon project that helps Telegram groups celebrate people and moments together. Members can send a **Special**, a cheerful, customizable shout-out for a birthday, a milestone, a helpful teammate, or just because. The bot shares it in the group with a fun card-style message.
